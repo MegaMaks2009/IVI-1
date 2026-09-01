@@ -1,4 +1,4 @@
-# IVI V1
+# Kira V1
 Fast offline voice-controlled app launcher for Windows.
 
 ## How to install?
