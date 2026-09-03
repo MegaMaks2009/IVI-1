@@ -1,4 +1,4 @@
-# Kira V1
+# Cactus V1
 Fast offline voice-controlled app launcher for Windows.
 
 ## How to install?
